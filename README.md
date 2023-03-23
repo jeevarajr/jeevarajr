@@ -2,7 +2,7 @@
 [![MasterHead](https://www.bing.com/images/search?view=detailV2&ccid=piAMkLAj&id=154F1FDF60703E1B3EE99940BEE27193C18283D5&thid=OIP.piAMkLAjuBhL3mIPbPgROgHaDm&mediaurl=https%3a%2f%2fwww.thesoftwarereport.com%2fwp-content%2fuploads%2f2019%2f06%2fgithub2.jpeg&exph=972&expw=2000&q=github+wall+image+problem+solver&simid=607992418409775960&FORM=IRPRST&ck=2F5EEC599744B6451C2B9A21601DEA1A&selectedIndex=1&ajaxhist=0&ajaxserp=0)]
 <h1 align="center">Hi 👋, I'm Jeevaraj</h1>
 <h3 align="center">A passionate problem solver</h3>
-<img align="right" alt="Coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=pH2Sn5uM&id=3281DD67E278AA7623748B1ECC44854CA470B718&thid=OIP.pH2Sn5uMcRN1thP76Kg9ZwHaDc&mediaurl=https%3a%2f%2fmedia.giphy.com%2fmedia%2fOnm3hRXrtOkU0%2fgiphy.gif&exph=233&expw=500&q=problem+solver+gif+coding+man&simid=607990386891624139&FORM=IRPRST&ck=904010DC886517F3383E2C4765FA0967&selectedIndex=5&ajaxhist=0&ajaxserp=0">
+<img align="right" alt="Coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=IRFhWNqu&id=714AD3326205054CD5619DC13A21986CCE1D64CA&thid=OIP.IRFhWNqusUWbTsB1hQXhrQHaEI&mediaurl=https%3a%2f%2fardas-it.com%2fuploads%2fimages%2fblogs%2fgiph.gif&exph=716&expw=1281&q=software+engineer+man+gif&simid=608034869824612719&FORM=IRPRST&ck=E1C766D7A2CBF008CA2AD59DD9373B4A&selectedIndex=7&ajaxhist=0&ajaxserp=0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeevarajr&label=Profile%20views&color=0e75b6&style=flat" alt="jeevarajr" /> </p>
 
