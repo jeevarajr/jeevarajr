@@ -1,8 +1,8 @@
 ### Hi there 👋
-[![MasterHead](https://www.bing.com/images/search?view=detailV2&ccid=piAMkLAj&id=154F1FDF60703E1B3EE99940BEE27193C18283D5&thid=OIP.piAMkLAjuBhL3mIPbPgROgHaDm&mediaurl=https%3a%2f%2fwww.thesoftwarereport.com%2fwp-content%2fuploads%2f2019%2f06%2fgithub2.jpeg&exph=972&expw=2000&q=github+wall+image+problem+solver&simid=607992418409775960&FORM=IRPRST&ck=2F5EEC599744B6451C2B9A21601DEA1A&selectedIndex=1&ajaxhist=0&ajaxserp=0)]
+[![MasterHead](https://s3.eu-west-2.amazonaws.com/fifteen-uploads/uploads/2017/05/animated.gif)]
 <h1 align="center">Hi 👋, I'm Jeevaraj</h1>
 <h3 align="center">A passionate problem solver</h3>
-<img align="right" alt="Coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=IRFhWNqu&id=714AD3326205054CD5619DC13A21986CCE1D64CA&thid=OIP.IRFhWNqusUWbTsB1hQXhrQHaEI&mediaurl=https%3a%2f%2fardas-it.com%2fuploads%2fimages%2fblogs%2fgiph.gif&exph=716&expw=1281&q=software+engineer+man+gif&simid=608034869824612719&FORM=IRPRST&ck=E1C766D7A2CBF008CA2AD59DD9373B4A&selectedIndex=7&ajaxhist=0&ajaxserp=0">
+<img align="right" alt="Coding" width="400" src="https://ardas-it.com/uploads/images/blogs/giph.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeevarajr&label=Profile%20views&color=0e75b6&style=flat" alt="jeevarajr" /> </p>
 
