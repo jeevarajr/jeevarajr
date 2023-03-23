@@ -1,4 +1,4 @@
-### Hi there 👋
+
 [![MasterHead](https://s3.eu-west-2.amazonaws.com/fifteen-uploads/uploads/2017/05/animated.gif)]
 <h1 align="center">Hi 👋, I'm Jeevaraj</h1>
 <h3 align="center">A passionate problem solver</h3>
